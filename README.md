@@ -1,8 +1,6 @@
 # 💫 About Me:
 Hi 👋🏻, <br>I'm Snehil, currently a undergrad student, and a Machine Learning enthusiast.<br><br>I love talking about ML/AI, philosophy, Astronomy and future technologies.<br>My projects and learning revolves around:<br><br>- Python 🐍<br>- Machine learning 🧠<br>- Data Analysis 📊<br><br>Ask me about ML, Space, Android Development, or what you love.<br><br>Fun fact about me: My logics are weird but it works.<br><br>How to read me: snehilseenu@gmail.com<br><br>It would be great to connect with some amazing people here with similar interests.! 🙌🏻
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mijokotsi&label=Profile%20views&color=0e75b6&style=flat" alt="mijokotsi" /> </p>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/snehilseenu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Snehilseenu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SnehilSeenu) 
@@ -16,9 +14,6 @@ Hi 👋🏻, <br>I'm Snehil, currently a undergrad student, and a Machine Learni
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=seenusnehil&icon=0&color=0)](https://visitcount.itsvg.in)
