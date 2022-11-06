@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋🏻, <br>I'm Snehil, currently a undergrad student, and a Machine Learning enthusiast.<br><br>I love talking about ML/AI, philosophy, Astronomy and future technologies.<br>My projects and learning revolves around:<br><br>- Python 🐍<br>- Machine learning 🧠<br>- Data Analysis 📊<br><br>Ask me about ML, Space, Android Development, or what you love.<br><br>Fun fact about me: My logics are weird but it works.<br><br>How to read me: snehilseenu@gmail.com<br><br>It would be great to connect with some amazing people here with similar interests.! 🙌🏻
+Hi 👋🏻, <br>I'm Snehil, currently a undergrad student, and a Machine Learning enthusiast.<br><br>I love talking about ML/AI, philosophy, Astronomy and future technologies.<br>My projects and learning revolves around:<br><br>- Python 🐍<br>- Machine learning 🧠<br>- Data Analysis 📊<br><br>Ask me about Machine Learning, Space, Android Development, or what you love.<br><br>Fun fact about me: My logics are weird but it works.<br><br>How to read me: snehilseenu@gmail.com<br><br>It would be great to connect with some amazing people here with similar interests.! 🙌🏻
 
 
 ## 🌐 Socials:
